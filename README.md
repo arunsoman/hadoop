@@ -12,7 +12,7 @@ If thats not enough [Our findings suggest SSD has higher performance compared to
 
 Does it stops there, no; there is something we could do networking as these are super chatty, hence lets bring in [InfiniBand](https://www.sandisk.in/content/dam/sandisk-main/en_us/assets/resources/enterprise/white-papers/evaluating-impact-of-ssds-and-infiniband-in-hadoop-cluster.pdf)
 
-[World is not enough (007), you what CPU is not enough bring in GPU ](http://www.nvidia.com/object/data-science-analytics-database.html)
+[World is not enough (007), you know what CPU is not enough bring in GPU ](http://www.nvidia.com/object/data-science-analytics-database.html)
 
 Now this is our simple and humble less expensive comodity server ;)
 
